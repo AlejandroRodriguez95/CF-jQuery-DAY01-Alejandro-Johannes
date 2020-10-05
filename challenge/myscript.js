@@ -6,13 +6,13 @@
  */
 
 // all elements
- //$("*").css("background-color", "yellow");
+ $("*").css("background-color", "yellow");
 
 // // all p elements
- //$("p").css("background-color", "yellow");
+ $("p").css("background-color", "yellow");
 
 // // the p element with an ID of "intro"
- $("p#intro").css("background-color", "yellow");
+// $("p#intro").css("background-color", "yellow");
 
 // // all elements with a class of "note"
 // $(".note").css("background-color", "yellow");
@@ -41,4 +41,7 @@
 
 // // every second and third p element
 // not pretty but works
-$("p:nth-of-type(2), p:nth-of-type(3)").css("background-color", "yellow");
+// $("p:eq(1)").css("background-color", "yellow");
+// $("p:eq(2)").css("background-color", "yellow");
+// $("p:eq(4)").css("background-color", "yellow");
+// $("p:eq(5)").css("background-color", "yellow");
