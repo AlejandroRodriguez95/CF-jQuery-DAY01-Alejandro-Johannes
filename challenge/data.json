@@ -1,0 +1,37 @@
+var images = `[
+    {
+        "name": "Fran",
+        "relation": "sister",
+        "image": "images/person1.png"
+    },
+    {
+        "name": "Bill",
+        "relation": "father",
+        "image": "images/person2.png"
+    },
+    {
+        "name": "Nick",
+        "relation": "brother",
+        "image": "images/person2.png"
+    },
+    {
+        "name": "Randomname",
+        "relation": "grandmother",
+        "image": "images/person2.png"
+    },
+    {
+        "name": "randomname2",
+        "relation": "grandfather",
+        "image": "images/person2.png"
+    },
+    {
+        "name": "randomname3",
+        "relation": "son",
+        "image": "images/person2.png"
+    },
+    {
+        "name": "Fritz",
+        "relation": "friend",
+        "image": "images/person3.png"
+    }
+]`;
