@@ -2,36 +2,36 @@ var images = `[
     {
         "name": "Fran",
         "relation": "sister",
-        "image": "images/person1.png"
+        "image": "img/sister.jpg"
     },
     {
         "name": "Bill",
         "relation": "father",
-        "image": "images/person2.png"
+        "image": "img/dad.jpg"
     },
     {
         "name": "Nick",
         "relation": "brother",
-        "image": "images/person2.png"
+        "image": "img/brother.jpg"
     },
     {
-        "name": "Randomname",
-        "relation": "grandmother",
-        "image": "images/person2.png"
+        "name": "dog",
+        "relation": "dog",
+        "image": "img/dog.jpg"
     },
     {
-        "name": "randomname2",
-        "relation": "grandfather",
-        "image": "images/person2.png"
+        "name": "sister2",
+        "relation": "sister",
+        "image": "img/sister2.jpg"
     },
     {
-        "name": "randomname3",
-        "relation": "son",
-        "image": "images/person2.png"
+        "name": "nameofgrandpa",
+        "relation": "grandpa",
+        "image": "img/granpa.jpg"
     },
     {
-        "name": "Fritz",
-        "relation": "friend",
-        "image": "images/person3.png"
+        "name": "Fritza",
+        "relation": "mom",
+        "image": "img/mom.jpg"
     }
 ]`;

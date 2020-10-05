@@ -1,5 +1,15 @@
 body{
     width: 80%;
     margin: auto;
-    background-color: grey;
+}
+.container{
+    display: flex;
+    flex-flow: row wrap;
+}
+div img{
+    width: 70%;
+    height: 80%;
+}
+.img-container{
+    width: 50%;
 }
